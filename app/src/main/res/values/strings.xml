@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Avia Ranger</string>
+    <string name="facebook_app_id">5605554899565319</string>
+    <string name="fb_login_protocol_scheme">fb5605554899565319</string>
+    <string name="facebook_client_token">b02934005e8794a9b46d8b31d7367b8d</string>
+    <string name="file_chooser_title">Choose image</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Velodic</string>
+</resources>

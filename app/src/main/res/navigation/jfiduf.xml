@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/filter_navvv"
+    app:startDestination="@id/kxzi">
+
+    <fragment
+        android:id="@+id/kxzi"
+        android:name="com.game.space.shooter2a.ngfdfde.Dzoxizjjis"
+        android:label="obkbnji"
+        tools:layout="@layout/cpsoaaos" >
+        <action
+            android:id="@+id/kdsidjisd"
+            app:destination="@id/obvijvbuhvb"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/obvijvbuhvb"
+        android:name="com.game.space.shooter2a.ngfdfde.Goxixzuxzsygxzxzxs"
+        android:label="hcyxtus"
+        tools:layout="@layout/niugfif" >
+        <action
+            android:id="@+id/xzisisudwko"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"
+            app:destination="@id/lopcxid" />
+    </fragment>
+    <fragment
+        android:id="@+id/lopcxid"
+        android:name="com.game.space.shooter2a.ngfdfde.Saoxozij"
+        android:label="pzpzx"
+        tools:layout="@layout/odidsu" >
+        <action
+            android:id="@+id/voibuiids"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"
+            app:destination="@id/zoijxhuzsaw" />
+    </fragment>
+    <fragment
+        android:id="@+id/zoijxhuzsaw"
+        android:name="com.game.space.shooter2a.waxzzxs.Jixozxijcs"
+        android:label="ookskdkxz"
+        tools:layout="@layout/mbobvi" >
+        <action
+            android:id="@+id/action_beeeeforFiiilFragment_to_fiiilttterFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"
+            app:destination="@id/mkxziiusuhahus" />
+    </fragment>
+    <fragment
+        android:id="@+id/mkxziiusuhahus"
+        android:name="com.game.space.shooter2a.waxzzxs.Vdoxpzijcuh"
+        android:label="xolllcxicixjxccxhud"
+        tools:layout="@layout/foigfi" />
+</navigation>
